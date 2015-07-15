@@ -1,3 +1,3 @@
-##phpRabbitMQ
+#phpRabbitMQ
 
-# PHP Adapter to interact with AMQ (RabbitMQ) systems!
+#### PHP Adapter to interact with AMQ (RabbitMQ) systems!
